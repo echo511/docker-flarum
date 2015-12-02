@@ -3,6 +3,7 @@
 ## Instructions
 
 Image database details:
-    db: flarum
-    user: root
-    password: (without password)
+
+> db: flarum
+> user: root
+> password: (without password)
