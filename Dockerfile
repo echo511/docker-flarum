@@ -1,7 +1,7 @@
 # Info
 FROM debian:8.3
 MAINTAINER Meta Lounge <account@meta-mail.ml>
-LABEL Description="Flarum forum easy deployment" Vendor="djtye" Version="0.1"
+LABEL Description="Just a Stable Flarum Docker Image" Vendor="djtye" Version="0.1"
 
 # System
 RUN export DEBIAN_FRONTEND=noninteractive && apt-get update && \
