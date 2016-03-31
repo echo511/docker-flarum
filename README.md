@@ -9,9 +9,9 @@
 
 Image Database Details:
 
-> db: flarum
-> user: root
-> password: (without password)
+* Database: flarum
+* Username: root
+* Password: (without password)
 
 
 ## File Contents
@@ -20,4 +20,4 @@ What our files do:
 
 * bootstrap-flarum.sh : Builds a Flarum Docker Image
 * run-flarum.sh : Run the Flarum Docker Image
-*  update-files.sh: Updates these files from GitHub
+* update-files.sh: Updates these files from GitHub
