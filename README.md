@@ -3,7 +3,10 @@
 ## Install
 
 > Make sure git is installed.
-> Pull these files using [code]git pull https://github.com/djtye/docker-flarum.git[/code]
+> Pull these files using: 
+- git pull https://github.com/djtye/docker-flarum.git
+> Then run:
+- sh bootstrap-flarum.sh
 
 ## Instructions
 
@@ -11,12 +14,12 @@ Image Database Details:
 
 * Database: flarum
 * Username: root
-* Password: (without password)
+* Password: (Without password)
 
 
 ## File Contents
 
-What our files do:
+What do our files do:
 
 * bootstrap-flarum.sh : Builds a Flarum Docker Image
 * run-flarum.sh : Run the Flarum Docker Image
