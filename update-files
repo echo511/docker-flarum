@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "Updating These Files From GitHub (djtye/docker-flarum)"
+echo "Updating These Files From GitHub (echo511/docker-flarum)"
 git pull
