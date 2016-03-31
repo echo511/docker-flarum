@@ -2,10 +2,10 @@
 
 ## Install
 
-> Make sure git is installed.
-> Pull these files using: 
+* Make sure git is installed.
+* Pull these files using: 
 - git pull https://github.com/djtye/docker-flarum.git
-> Then run:
+* Then run:
 - sh bootstrap-flarum.sh
 
 ## Instructions
