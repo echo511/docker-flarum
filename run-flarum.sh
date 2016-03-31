@@ -1,8 +1,8 @@
 #!/bin/sh
 
-echo "Starting Flarum Docker Container..."
+echo "Starting Flarum Docker Container"
 
-echo "Stargin MySQL"
+echo "Starting MySQL"
 /etc/init.d/mysql start
 
 echo "Starting PHP"
