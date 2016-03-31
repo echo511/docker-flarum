@@ -1,14 +1,12 @@
 #!/bin/sh
 
-echo "Starting flarum..."
+echo "Starting Flarum Docker Container"
 
-echo "Stargin mysql"
+echo "Starting MySQL"
 /etc/init.d/mysql start
 
-echo "Starting php"
+echo "Starting PHP"
 /etc/init.d/php5-fpm start
 
-echo "Starting nginx"
+echo "Starting NGINX"
 /etc/init.d/nginx start
-
-tail -f /var/log/nginx/access.log

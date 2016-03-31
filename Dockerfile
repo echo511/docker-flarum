@@ -1,7 +1,7 @@
 # Info
-FROM debian:8.2
+FROM debian:8.3
 MAINTAINER Nikolas Tsiongas <ntsiongas@gmail.com>
-LABEL Description="Flarum forum easy deployment" Vendor="echo511" Version="1.0"
+LABEL Description="Just a Stable Flarum Docker Image" Vendor="echo511" Version="2.0"
 
 # System
 RUN export DEBIAN_FRONTEND=noninteractive && apt-get update && \
