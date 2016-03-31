@@ -18,6 +18,6 @@ Image Database Details:
 
 What our files do:
 
-> bootstrap-flarum.sh : Builds a Flarum Docker Image
-> run-flarum.sh : Run the Flarum Docker Image
-> update-files.sh: Updates these files from GitHub
+* bootstrap-flarum.sh : Builds a Flarum Docker Image
+* run-flarum.sh : Run the Flarum Docker Image
+*  update-files.sh: Updates these files from GitHub
