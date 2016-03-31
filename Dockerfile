@@ -1,7 +1,7 @@
 # Info
-FROM debian:8.2
-MAINTAINER Nikolas Tsiongas <ntsiongas@gmail.com>
-LABEL Description="Flarum forum easy deployment" Vendor="echo511" Version="1.0"
+FROM debian:8.3
+MAINTAINER Meta Lounge <account@meta-mail.ml>
+LABEL Description="Flarum forum easy deployment" Vendor="djtye" Version="0.1"
 
 # System
 RUN export DEBIAN_FRONTEND=noninteractive && apt-get update && \
