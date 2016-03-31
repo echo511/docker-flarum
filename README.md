@@ -3,7 +3,7 @@
 ## Install
 
 > Make sure git is installed.
-> Pull these files using git pull https://github.com/djtye/docker-flarum.git
+> Pull these files using [code]git pull https://github.com/djtye/docker-flarum.git[/code]
 
 ## Instructions
 
