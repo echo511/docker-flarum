@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo "Bootstraping Flarum"
-docker run djtye/docker-forum
+docker run echo511/docker-flarum
